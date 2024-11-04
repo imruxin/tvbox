@@ -33,7 +33,25 @@ jobs:
           export TZ='Asia/Shanghai'
           git add .
           git commit -m "update" -a
-      - name: 推送
+
+      - name: 更新仓库内容
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: 安装 SSH key
+        run: |
+          mkdir -p ~/.ssh/
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan -H -p ${{ secrets.SSH_PORT }} ${{ secrets.SERVER_HOST }} >> ~/.ssh/known_hosts
+      
+      - name: 配置 SSH
+        run: |
+          echo "Host ${{ secrets.SERVER_HOST }}" >> ~/.ssh/config
+          echo "    Port ${{ secrets.SSH_PORT }}" >> ~/.ssh/config
+          echo "    User ${{ secrets.SERVER_USER }}" >> ~/.ssh/config
+          
+      - name: 同步 TV 文件夹到服务器
+        run: |
+          rsync -avz --delete ./tv/ ${{ secrets.SERVER_HOST }}:${{ secrets.REMOTE_PATH }}
