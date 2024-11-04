@@ -2,7 +2,7 @@ name: Python application
 on:
   push:
   schedule:
-    - cron: '0 21 * * 1'
+    - cron: '0 21 */5 * *'
 
 jobs:
   build:
@@ -15,7 +15,7 @@ jobs:
       - name: 安装 Python 3.10
         uses: actions/setup-python@v4
         with:
-          python-version: 3.10.4
+          python-version: 3.10
 
       - name: 安装模块
         run: |
@@ -28,8 +28,8 @@ jobs:
           python autoUrl.py
       - name: 暂存提交
         run: |
-          git config --global user.name 'hl128k'
-          git config --global user.email 'hl128k@qq.com'
+          git config --global user.name 'imruxin'
+          git config --global user.email 'admin@imruxin.com'
           export TZ='Asia/Shanghai'
           git add .
           git commit -m "update" -a
