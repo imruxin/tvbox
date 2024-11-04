@@ -1,29 +1,29 @@
 {
-    "spider": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/fan.txt;md5;8851819289f80deae32319080028db3b",
+    "spider": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/fan.txt;md5;8851819289f80deae32319080028db3b",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "lives": [
         {
-            "name": "一",
+            "name": "DD",
             "type": 0,
-            "url": "https://gitlab.com/fantaiying/ext/-/main/id.txt",
+            "url": "https://ghp.ci/raw.githubusercontent.com/Dong-learn9/AutoTV/master/output/tv.txt",
             "playerType": 1,
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "二",
-            "type": 0,
-            "url": "https://ghp.ci/raw.githubusercontent.com/Dong-learn9/AutoIPTV/master/output/user_result.txt",
-            "playerType": 1,
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
-            "name": "三",
+            "name": "YM",
             "type": 0,
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u",
+            "url": "https://codeberg.org/Xym/ymz/branch/main/ymz/ymzlive.txt",
             "playerType": 1,
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "epg": "http://106.14.90.17/?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
+            "name": "LL",
+            "type": 0,
+            "url": "https://gcore.jsdelivr.net/gh/yuanzl77/IPTV@latest/live.m3u",
+            "playerType": 1,
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
@@ -38,8 +38,8 @@
             "key": "drpy_js_豆瓣",
             "name": "豆瓣┃[js]",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/drpy.js",
+            "api": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/drpy.js",
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0
@@ -71,15 +71,15 @@
             "quickSearch": 1,
             "changeable": 1,
             "playerType": "1",
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/荐片.js"
+            "api": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/荐片.js"
         },
         {
             "key": "drpy_js_子子影视",
             "name": "子子┃JS",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/子子影视.js"
+            "api": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/子子影视.js"
         },
         {
             "key": "drpy_js_毒蛇",
@@ -89,18 +89,18 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/毒蛇电影.js"
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/毒蛇电影.js"
         },
         {
             "key": "hipy_js_4K-AV",
             "name": "4K┃JS",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js",
+            "api": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/4K-AV.js"
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/4K-AV.js"
         },
         {
             "key": "hipy_js_多多追剧[优]",
@@ -121,8 +121,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/酒吧影视.json"
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/酒吧影视.json"
         },
         {
             "key": "小镇",
@@ -132,8 +132,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/电影小镇.json"
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/电影小镇.json"
         },
         {
             "key": "csp_xc",
@@ -144,15 +144,15 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/星辰影视2.json"
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/星辰影视2.json"
         },
         {
             "key": "csp_红狐狸影视",
             "name": "狐狸┃BPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "ext": {
                 "分类url": "https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
@@ -164,8 +164,8 @@
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": "1",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/素白白.json"
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/素白白.json"
         },
         {
             "key": "csp_xBPQ_白嫖影视",
@@ -173,8 +173,8 @@
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": "1",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/白嫖影视.json"
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/白嫖影视.json"
         },
         {
             "key": "爱电影",
@@ -184,8 +184,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/爱电影.json"
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/爱电影.json"
         },
         {
             "key": "csp_速播",
@@ -195,8 +195,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/速播.json"
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/速播.json"
         },
         {
             "key": "csp_达达龟",
@@ -207,8 +207,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/达达龟.json"
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/达达龟.json"
         },
         {
             "key": "csp_BTtwo",
@@ -219,8 +219,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/两个BT.json"
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/两个BT.json"
         },
         {
             "key": "蘑菇",
@@ -229,7 +229,7 @@
             "api": "csp_XBPQ",
             "searchable": 1,
             "changeable": 1,
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "ext": {
                 "主页url": "https://www.moguys.work/",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
@@ -246,7 +246,7 @@
             "quickSearch": 1,
             "playerType": "2",
             "api": "csp_XBPQ",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "ext": {
                 "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
                 "分类url": "https://saohuo.tv/list/{cateId}-{catePg}.html;;vr1au0",
@@ -267,7 +267,7 @@
             "type": 3,
             "playerType": "1",
             "api": "csp_XBPQ",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "ext": {
                 "分类url": "https://kanmeiju.org/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;ax",
                 "分类": "剧集$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi#短剧$duanju",
@@ -279,28 +279,28 @@
         {
             "key": "XBPQ_4k影视",
             "name": "4K┃BPQ",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/4kys.json"
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/4kys.json"
         },
         {
             "key": "热播库",
             "name": "热播┃BPQ",
             "type": 3,
             "changeable": 1,
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "api": "csp_XBPQ",
             "playerType": "1",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/热播库.json"
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/热播库.json"
         },
         {
             "key": "淘剧",
             "name": "淘剧┃BPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/淘剧.json"
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/淘剧.json"
         },
         {
             "key": "mp4",
@@ -308,8 +308,8 @@
             "type": 3,
             "api": "csp_XYQHiker",
             "playerType": 2,
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XYQH.jar;md5;81544697BC790013FC5BB1D2939BF0B6",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/XYQH/mp4影视.json"
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XYQH.jar;md5;81544697BC790013FC5BB1D2939BF0B6",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/XYQH/mp4影视.json"
         },
         {
             "key": "新6v",
@@ -317,8 +317,8 @@
             "type": 3,
             "api": "csp_XYQHiker",
             "playerType": 2,
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XYQH.jar;md5;81544697BC790013FC5BB1D2939BF0B6",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/XYQH/6V电影.json"
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XYQH.jar;md5;81544697BC790013FC5BB1D2939BF0B6",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/XYQH/6V电影.json"
         },
         {
             "key": "电影港",
@@ -326,8 +326,8 @@
             "type": 3,
             "api": "csp_XYQHiker",
             "playerType": 2,
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XYQH.jar;md5;81544697BC790013FC5BB1D2939BF0B6",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/XYQH/电影港.json"
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XYQH.jar;md5;81544697BC790013FC5BB1D2939BF0B6",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/XYQH/电影港.json"
         },
         {
             "key": "360资源",
@@ -382,8 +382,8 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/py/央视片库.py",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/py/央视片库.py"
+            "api": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/py/央视片库.py",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/py/央视片库.py"
         },
         {
             "key": "hipy_js_央视大全",
@@ -404,8 +404,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XYQH.jar;md5;81544697BC790013FC5BB1D2939BF0B6",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/XYQH/儿童启蒙.json"
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XYQH.jar;md5;81544697BC790013FC5BB1D2939BF0B6",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/XYQH/儿童启蒙.json"
         },
         {
             "key": "少儿教育",
@@ -523,7 +523,7 @@
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/pg.jar;md5;7C03297C89AA832F88092D4567664AD8",
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/pg.jar;md5;7C03297C89AA832F88092D4567664AD8",
             "ext": "https://fm.t4tv.hz.cz/json/market.json"
         },
         {
