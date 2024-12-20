@@ -13,7 +13,7 @@ def main():
     with open('./url.json', 'r', encoding='utf-8') as f:
         urlJson = json.load(f)
     nameList = []
-    reList = ["https://ghp.ci/https://raw.githubusercontent.com", 
+    reList = ["https://raw.gitmirror.com", 
               "https://gitdl.cn/https://raw.githubusercontent.com"]
     reRawList = [False, False]
     
