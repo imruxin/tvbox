@@ -510,31 +510,31 @@
             "key": "cntv",
             "name": "央视[cat]",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/dxawi/0/main/cat/cntv_open.js"
+            "api": "https://raw.gitmirror.com/dxawi/0/main/cat/cntv_open.js"
         },
         {
             "key": "bookan_book_open",
             "name": "Bookan[cat]",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/dxawi/0/main/cat/MyCatBookan.js"
+            "api": "https://raw.gitmirror.com/dxawi/0/main/cat/MyCatBookan.js"
         },
         {
             "key": "boosj_open",
             "name": "童趣[cat]",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/dxawi/0/main/cat/boosj_open.js"
+            "api": "https://raw.gitmirror.com/dxawi/0/main/cat/boosj_open.js"
         },
         {
             "key": "tuxiaobei_open",
             "name": "兔小贝[cat]",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/dxawi/0/main/cat/tuxiaobei_open.js"
+            "api": "https://raw.gitmirror.com/dxawi/0/main/cat/tuxiaobei_open.js"
         },
         {
             "key": "ubestkid_open",
             "name": "贝乐虎[cat]",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/dxawi/0/main/cat/ubestkid_open.js"
+            "api": "https://raw.gitmirror.com/dxawi/0/main/cat/ubestkid_open.js"
         },
         {
             "key": "Bili",
