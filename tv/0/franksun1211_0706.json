@@ -1,7 +1,7 @@
 
 {
-    //"spider": "https://raw.gitmirror.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/spider.jar",
-    "spider": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
+    "spider": "https://raw.gitmirror.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/spider.jar",
+    //"spider": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
     "sites": [
@@ -48,6 +48,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+		"jar": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": {
                 "danmu": true
             }
@@ -60,6 +61,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+		"jar": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": {
                 "danmu": true,
                 "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
@@ -73,6 +75,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+		"jar": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": {
                 "danmu": true,
                 "site": "aHR0cDovL3YucmJvdHYuY24="
@@ -86,6 +89,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+		"jar": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": {
                 "danmu": true,
                 "site": "aHR0cDovL3YubGt1eXMuY24="
@@ -99,6 +103,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+		"jar": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": {
                 "danmu": true
             }
@@ -111,6 +116,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+		"jar": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": {
                 "danmu": true
             }
@@ -123,6 +129,7 @@
             "api": "csp_Libvio",
             "searchable": 1,
             "filterable": 1,
+		"jar": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "changeable": 1,
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
@@ -137,6 +144,7 @@
             "key": "米兔弹幕",
             "name": "米兔｜弹幕",
             "type": 3,
+		"jar": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "api": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
             "ext": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/米兔弹幕.js"
         },
@@ -144,6 +152,7 @@
             "key": "小熊弹幕",
             "name": "小熊｜弹幕",
             "type": 3,
+		"jar": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "api": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
             "ext": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/小熊弹幕.js"
         },
@@ -151,6 +160,7 @@
             "key": "巨人弹幕",
             "name": "巨人｜弹幕",
             "type": 3,
+		"jar": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "api": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
             "ext": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/巨人弹幕.js"
         },
@@ -158,6 +168,7 @@
             "key": "追剧弹幕",
             "name": "追剧｜弹幕",
             "type": 3,
+		"jar": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "api": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
             "ext": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/追剧弹幕.js"
         },
@@ -165,6 +176,7 @@
             "key": "梦米弹幕",
             "name": "梦米｜弹幕",
             "type": 3,
+		"jar": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "api": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
             "ext": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/梦米弹幕.js"
         },
@@ -172,6 +184,7 @@
             "key": "小虎斑弹幕",
             "name": "小虎斑｜弹幕",
             "type": 3,
+		"jar": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "api": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
             "ext": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/小虎斑弹幕.js"
         },
@@ -183,6 +196,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
+		"jar": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": {
                 "danmu": true
             }
@@ -195,6 +209,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+		"jar": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": {
                 "danmu": true
             }
@@ -207,6 +222,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+		"jar": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": {
                 "danmu": true
             }
@@ -215,230 +231,51 @@
 ///APP////////////////////////////////////////////////////////////      
 
 {
-            "key": "韩小圈",
-            "name": "韩小圈｜APP",
+            "key": "热播影视",
+            "name": "热播｜APP",
             "type": 3,
-            "api": "csp_HanXiaoQuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "HG影视",
-            "name": "HG影视｜APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://cs.hgyx.vip/api2/api.php/app/"
-        },
-        {
-            "key": "猎手影视",
-            "name": "猎手｜APP",
-            "type": 3,
-            "api": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/PY/猎手影视.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-        {
-            "key": "巧技",
-            "name": "巧技｜APP",
-            "type": 3,
-            "api": "csp_qiao2",
-            "playerType": 2,
-            "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"
-        },
-        {
-            "key": "木头",
-            "name": "木头｜APP",
-            "type": 3,
-            "api": "csp_Shark",
-            "playerType": 1,
-            "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
-        },
-        {
-            "key": "永夜",
-            "name": "永夜｜APP",
-            "type": 3,
-            "api": "csp_Muou",
-            "playerType": 2,
-            "ext": "caHR0cDovL211b3UuNTZ1eGkuY29tfENvZmZlZTRLfDQuMS44"
-        },
-        {
-            "key": "星河",
-            "name": "星河｜APP",
-            "type": 3,
-            "api": "csp_Muou",
-            "playerType": 2,
-            "ext": "caHR0cHM6Ly9odC5tb3liay5jbnzphZLlrqLlvbHop4Z8NC4xLjg="
-        },
-        {
-            "key": "二三",
-            "name": "二三｜APP",
-            "type": 3,
-            "api": "csp_Muou",
-            "playerType": 2,
-            "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
-        },
-        {
-            "key": "油条",
-            "name": "油条｜APP",
-            "type": 3,
-            "api": "csp_Muou",
-            "playerType": 2,
-            "ext": "caHR0cDovL3UzYS50dHhnenMuY2585LyY5LyY5YWUfDQuMS45"
-        },
-        {
-            "key": "时常",
-            "name": "时常｜APP",
-            "type": 3,
-            "api": "csp_Xdai",
-            "playerType": 1,
-            "ext": "jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ="
-        },
-        {
-            "key": "雨滴",
-            "name": "雨滴｜APP",
-            "type": 3,
-            "api": "csp_Xdai",
-            "playerType": 1,
-            "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="
-        },
-        {
-            "key": "现代",
-            "name": "现代｜APP",
-            "type": 3,
-            "api": "csp_Xdai",
-            "playerType": 1,
-            "ext": "caHR0cHM6Ly94ZHlzLnZpcC9nZXRhcHAudHh0fHN6ZGp3ZGFwcHdjbm1kaGJ8c3pkandkYXBwd2NubWRoYnwxMTQ="
-        },
-        {
-            "key": "玉米",
-            "name": "玉米｜APP",
-            "type": 3,
-            "api": "csp_Xdai",
-            "playerType": 1,
-            "ext": "jaHR0cHM6Ly95b3V5b3V0dS0xMzE5MjA5NzQ4LmNvcy5hcC1jaGVuZ2R1Lm15cWNsb3VkLmNvbS93RjlvQTRmRDh4Rzh4RzVxLnR4dHxkUzl0WTVuSzR0WDlvSTFqfGRTOXRZNW5LNHRYOW9JMWp8NDQy"
-        },
-        {
-            "key": "优质",
-            "name": "优质｜APP",
-            "type": 3,
-            "api": "csp_Xdai",
-            "playerType": 1,
-            "ext": "jaHR0cDovL2R5eXp0dmFwcGFwaWdvb2RneC42OC5neS9jaXdrMjh2dTM4aW84L2FwaXVybC50eHR8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="
-        },
-        {
-            "key": "木叶",
-            "name": "木叶｜APP",
-            "type": 3,
-            "api": "csp_Xdai",
-            "playerType": 2,
-            "ext": "saHR0cDovL2hvc3QueXl5cy5uZXdzLzI1MDEyMy50eHR8UnVOOUxSdndUUmdwUW5wS3xSdU45TFJ2d1RSZ3BRbnBLfDU0Ng=="
-        },
-        {
-            "key": "蝴蝶",
-            "name": "蝴蝶｜APP",
-            "type": 3,
-            "api": "csp_Hudie",
-            "playerType": 2,
-            "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
-        },
-        {
-            "key": "蚂蚁",
-            "name": "蚂蚁｜APP",
-            "type": 3,
-            "api": "csp_Mayiys",
+            "api": "csp_AppRJ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "playerType": 1,
-            "ext": "jaHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L21heWkudHh0"
+            "ext": {
+                "url": "http://v.rbotv.cn"
+            }
         },
         {
-            "key": "快看",
-            "name": "快看｜APP",
+            "key": "天天影视",
+            "name": "天天｜APP",
             "type": 3,
-            "api": "csp_AppYsV2",
+            "api": "csp_AppRJ",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "http://kkwk123.top/api.php/app/"
-        },
-        {
-            "key": "站长影视",
-            "name": "站长｜APP",
-            "type": 3,
-            "api": "csp_AppGetApp",
-            "searchable": 1,
-            "quickSearch": 0,
             "filterable": 0,
-            "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvCnF9SwoPCmcOtw5jDj8Orw6ZValLCmMOtw6fDqsOswrRiX8KdacOcw57CrMKxw6DCqmbCnmPDpsKow6XCsMKywpRhYMKUwqfDl8Ozw7LDtGVewpPCn8Omwq3Cr8KvwrJsX8KRwqDDosKhw6rDocOqVVxSecOnw5zDrsOQw6nCpcKUUmrCm8KVwqbCm8OuwpzCoFJqwpvDjuWHv+mFoeaQn+WQllzlhpzkvYflkbDCreW/q+iov+i2vua7g+esicKNUsKlwpXCu8Oew61+wpXCqVLCs8KVw57DssOzwq3CpMKmwpHDqcOcw5vDqcOqwqzCqcKUwqPCm8KfwpzCusOfwqZ5wqZSwrPClcOew7LDs8KtwqTCpsKRw6nDnMObw6nDqsKswqnClMKjwpvDsA=="
+            "ext": {
+                "url": "http://tt.ysdqjs.cn"
+            }
         },
         {
-            "key": "多多影视",
-            "name": "多多｜APP",
+            "key": "浪酷影视",
+            "name": "浪酷｜APP",
             "type": 3,
-            "api": "csp_AppGetApp",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCocKbwqTCpMKgwrPCosKpwqvCq2ReaWnCp8KswrLCp8KuamppacKywqzCqcOaw6rCnF7CpMKow63CmsKmwpnCocKGwpnCpMKVw47DpcOmwqDCtFNXV1zCmcKaw4PDp8OjwqfCh8KfwqLDncKawrTCmcKhwpzCnsKZwqTDj8KkwqvCssKhX1BXwqTDosOjwqHCs8KaWsKL5Ya16YSY5pCe5ZGWwqblh6XkvpHlkKpq5b6h6Ke26La95ryD562Tw5bCoV9QV3HDnsOmw4XDnsOzWmpQV8OewqfCsMKqw51qwpNgwpXDn8Kjw5zCr8OdwpdhV1zCmcKawrvDnsOtfMKmV2rCmcKaw5/CrcKwZMKTZ8KTwqnDmMOgwqnDnGnCk8KUYcKgwp/CmsKgw57CmMKTwqLCqcOpw6fDhcOew7NaalBXw7LDlMOpw7DDm8KhwpdgYcKrwqnCocO2"
-        },
-        {
-            "key": "悠悠影视",
-            "name": "悠悠｜APP",
-            "type": 3,
-            "api": "csp_AppGetApp",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCoVpcUFfDgsOhw6PDrcORwqLCosKUV8KzwpPCocOiw6jCnMKkwoZhwqrCrMKhwqXCmlrCpMKZwqDCoMKtwprCoMOV5Ya46YSY5o+V5ZCTwqXlh5/kvpHlkbDCtOW+pOintui1tOa7gOetksOQwqHCpcKaWnHClcKjw4TDmMOzwqDCtFNXdMKow7DCvMOtw63DrMKXwofCksKJw6nDlcOmw7DDqFpcUFfCusOYw63DgsOwWmpQV8K9w6vDscOCw63Cp8KiwpTCh8Obw4zDqsObw6bCqsKeV1zCmcKaw43DosOuwpjChcKiwpzCoMKtwprCoMOiwqfCpMKgasKowqLCq8KuwrBhYmJlwqfCpsKqwqfCsGhqZWXCr8KpwqnDmsOqwpxewqDCmMOpwprCpsKZwqHCl8KVwpPCosOyw6PDrsOEw5/CrFdqUMKgw6zDm8Oow7HClMKewpdgwqrCpcKwwqDDtw=="
-        },
-        {
-            "key": "良人影视",
-            "name": "良人｜APP",
-            "type": 3,
-            "api": "csp_AppGetApp",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCocKbwqTCpMKgw6zCrcKpwqjDpsKcwpHCnsKXw6vDmMOowqbCq2ZhZ2fCqsKqwrDCscKsYcKTwp/Co8Knw5TDqsKmw6HCqMKRwp7Cl8Ozw5vDqcOuwqjCoMKpwqHCk8Olw6LDr8OdwqjClsKfwp1fw6XDnMObw6fDocKlwpXCnl7DrcOrw67CoMKmU1fCg8KZw63DmMOPw6vDplpqUFfCoMKfwprCoMOuwpzCoFdqwpnCmsOV5Ye+6YWi5o+Y5ZCTXOWGnOS+kOWRqsK05b+q6KmA6LW35ruA56yJwo3CoMKfwprCoMK7wpjCo3vClcOywprCtMKZwqF3ZsKhZ8Ohw53DnMKxwrF5emBpwr/CqsKxwqDCplNXccKVw6zCvMOwwqDCtFNXdGbDqsKqw6LDo8Oca2d2esKpwqzDgMKwwrFaXFBXw53DmMOdw6vDs8KjwqR7wpXDssKawrTCmcKhwqzCkcKfwqfDmsOhw6HCqcKrZWZXwq0="
-        },
-        {
-            "key": "云播影视",
-            "name": "云播｜APP",
-            "type": 3,
-            "api": "csp_AppGetApp",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCoVpcUFfDjMOcw67DnsOPwqXCnFdqwpnCmsOiw63DrsKjal9fw6DDmMOuw5rDqsKjXsKkwqbDssOVw5vDqcOqYcKTwp/CncKow5TDqsOiwqjCo8KYwqBXwqXCk8Khw4LDqMKcwqTCh8Kfw6vDl8KhwrPCmlrCmcKewpnDrcOJwqvCqsKzWlxQV8Otw5zDqsKgwrRTV8KL5Ya16YWh5pCY5ZGdwqXlh6bkvYrlkKdq5b6h6Ki/6La35ryK562Sw5daXFBXwrrDmMOtw4TDn8KsV2pQwqDDoMOjw5zDpWVkZWjDpsOcw53DpMKsZ2VoV8KlwpPCocK6w5/CpnnCplfCs8KTwqHDpsOjwpbCm2Jkwq7Cq8Onw6LDncKeYmRlwrHCmsKmwpnCocKbwpXCkcKUw57DpcOtwqDCtFPCq1fCpcOsw5jDrMKmw5vCmsKVwp7CpMKgwq3CmsKgw4fCosKqwpnCnMOlw5TCqcKuwqhjUFjCh8Oiw6HDnsOow7HCplB+woTCmcKkwqrCp8KqblDCh8KZw6fCqcKuwrTCmsKrZmRZwpnCtMOqw6nDpsKYwofClcKSw4TDnMOuwqjCr2ZnXmPCr8KTwqLDhMOCwod9fFzCmcOfw6PDpMOfU3fClcKTw6TDosKjwpnCvcKbwqLCn8Kdw57CosKrwqrCrGFgXmDCp8KjwprDjMObwpnCkcKiwpnCqMKowq3CsMKoZmZXXMKZwprDm8Olw6bCosKnc8Kiw6jDpsOtw4nDrMKiwqTCn8KTw6jDn8OMw57DnsKcwqLClcKTw63DpsKhwrPCmsKHwqLCpcKVw7bCn8KawqDDnsKYwpPCosKpw6nDp8OFw57Ds1pqUFfDssOUw6nDsMObwqHCl2BhwqvCqcKhw7Y="
-        },
-        {
-            "key": "洽洽影视",
-            "name": "洽洽｜APP",
-            "type": 3,
-            "api": "csp_AppGZ",
+            "api": "csp_AppRJ",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY="
+            "filterable": 0,
+            "ext": {
+                "url": "http://v.lkuys.cn"
+            }
         },
         {
-            "key": "忍者影视",
-            "name": "忍者｜APP",
+            "key": "菲儿影视",
+            "name": "菲儿｜APP",
             "type": 3,
-            "api": "csp_AppRZ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "KhY021WelCEl+6MsvwnzaLK5sgGhHBhBszPP7EvqSfdVqJTIDGrV0xPZiB/0I8O9mrMKS+cdzxqKP83dFJJyyyb8D0J0ZVtM/ds4xb/4dA=="
+            "api": "csp_AppFerr",
+            "ext": {
+                "url": "https://appcms.freehd.vip",
+                "dataKey": "be5348dfb0c3c283",
+                "dataIv": "5f5449dd14313217"
+            }
         },
         {
             "key": "移动",
@@ -449,68 +286,377 @@
             "quickSearch": 1
         },
         {
-            "key": "小米尘落",
-            "name": "尘落｜APP",
+            "key": "仓鼠",
+            "name": "仓鼠｜APP",
             "type": 3,
-            "api": "csp_Wetv",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "小米眼镜",
-            "name": "眼镜｜APP",
-            "type": 3,
-            "searchable": 1,
             "quickSearch": 1,
-            "api": "csp_AppYanjing"
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "https://qjappcms.cs4k.top",
+                "dataKey": "Z98KXaLtO2wC1Pte",
+                "dataIv": "Z98KXaLtO2wC1Pte",
+                "deviceId": "",
+                "version": "120"
+            }
         },
         {
-            "key": "小米米兔",
+            "key": "水滴",
+            "name": "水滴｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "http://1.94.105.93",
+                "dataKey": "gKdQKLbwhhLp4Ytv",
+                "dataIv": "gKdQKLbwhhLp4Ytv",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "橘猫",
+            "name": "橘猫｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://appcms.jm4k.top",
+                "dataKey": "KPEkKAESYi38CQdn",
+                "dataIv": "KPEkKAESYi38CQdn",
+                "deviceId": "",
+                "version": "119"
+            }
+        },
+        {
+            "key": "忍者",
+            "name": "忍者｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://mfxs123.sbs",
+                "dataKey": "1234567887654321",
+                "dataIv": "1234567887654321",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "晴天",
+            "name": "晴天｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://qjappcms.sun4k.top",
+                "dataKey": "sBxqXVF5pAHbGzrH",
+                "dataIv": "sBxqXVF5pAHbGzrH",
+                "deviceId": "",
+                "version": "119"
+            }
+        },
+        {
+            "key": "再看",
+            "name": "再看｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://149.88.64.161:8627",
+                "dataKey": "123456789ABCDEFG",
+                "dataIv": "123456789ABCDEFG",
+                "deviceId": "2bb4c10f3e043307dbfc579bd0db23f4e",
+                "version": "110"
+            }
+        },
+        {
+            "key": "诺雪",
+            "name": "诺雪｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://appcms.rx4k.top",
+                "dataKey": "LiGFzV6csf21zsu6",
+                "dataIv": "LiGFzV6csf21zsu6",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "橘子",
+            "name": "橘子｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://api1.bffree.cn",
+                "dataKey": "2015692015692015",
+                "dataIv": "2015692015692015",
+                "deviceId": "",
+                "version": "300"
+            }
+        },
+        {
+            "key": "彼岸",
+            "name": "彼岸｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://mfsp33.top",
+                "dataKey": "1234567887654321",
+                "dataIv": "1234567887654321",
+                "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
+                "version": "315"
+            }
+        },
+        {
+            "key": "雨滴",
+            "name": "雨滴｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://c8w2ov7u5wg2z1o8p21c.aliyuncs.click:27899",
+                "dataKey": "k9o3p2c8b7m3z0o8",
+                "dataIv": "k9o3p2c8b7m3z0o8",
+                "deviceId": "",
+                "version": "100"
+            }
+        },
+        {
+            "key": "玉米",
+            "name": "玉米｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.zjc.app",
+                "dataKey": "ab4e9a421675f14b",
+                "dataIv": "ab4e9a421675f14b",
+                "deviceId": "",
+                "version": "442"
+            }
+        },
+        {
+            "key": "优质",
+            "name": "优质｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://apiapplbys.lbys.app:5678",
+                "dataKey": "apiapplbyskey168",
+                "dataIv": "apiapplbyskey168",
+                "deviceId": "",
+                "version": "107"
+            }
+        },
+        {
+            "key": "木叶",
+            "name": "木叶｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://46.203.125.54:7070",
+                "dataKey": "RuN9LRvwTRgpQnpK",
+                "dataIv": "RuN9LRvwTRgpQnpK",
+                "deviceId": "",
+                "version": "547"
+            }
+        },
+        {
+            "key": "米兔",
             "name": "米兔｜APP",
             "type": 3,
-            "searchable": 1,
             "quickSearch": 1,
-            "api": "csp_MiTuApp"
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://v.tkbot.fun",
+                "dataKey": "d032c12876bc6848",
+                "dataIv": "d032c12876bc6848",
+                "deviceId": "",
+                "version": "200"
+            }
         },
         {
-            "key": "小米麻花",
-            "name": "麻花｜APP",
+            "key": "光速",
+            "name": "光速｜APP",
             "type": 3,
-            "searchable": 1,
             "quickSearch": 1,
-            "api": "csp_MaHuaApp"
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://c8k2n5l0i9s8b2m1jj8k2x2l9ff68.ydysapi.cfd:27899",
+                "dataKey": "k9o3p2c8b7m3z0o8",
+                "dataIv": "k9o3p2c8b7m3z0o8",
+                "deviceId": "2f085931bcbd83a2bbc8ba1fc66243cd2",
+                "version": "112"
+            }
         },
         {
-            "key": "小米电影",
-            "name": "电影｜APP",
+            "key": "人人",
+            "name": "人人｜APP",
             "type": 3,
-            "searchable": 1,
             "quickSearch": 1,
-            "api": "csp_MovieApp"
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.xiaohys.com",
+                "dataKey": "ENonBHeVBoYZhVUV",
+                "dataIv": "ENonBHeVBoYZhVUV",
+                "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
+                "version": "166"
+            }
         },
         {
-            "key": "小米兄弟",
-            "name": "兄弟｜APP",
+            "key": "悠悠",
+            "name": "悠悠｜APP",
             "type": 3,
-            "searchable": 1,
             "quickSearch": 1,
-            "api": "csp_XiongDiApp"
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://46.203.125.54:7070",
+                "dataKey": "RuN9LRvwTRgpQnpK",
+                "dataIv": "RuN9LRvwTRgpQnpK",
+                "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
+                "version": "547"
+            }
         },
         {
-            "key": "小米小猫",
-            "name": "小猫｜APP",
+            "key": "在看",
+            "name": "在看｜APP",
             "type": 3,
-            "searchable": 1,
             "quickSearch": 1,
-            "api": "csp_XiaoMaoApp"
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://149.88.64.161:9525",
+                "dataKey": "123456789ABCDEFG",
+                "dataIv": "123456789ABCDEFG",
+                "deviceId": "",
+                "version": ""
+            }
         },
         {
-            "key": "小米良人",
-            "name": "良人｜APP",
+            "key": "星河",
+            "name": "星河｜APP",
             "type": 3,
-            "searchable": 1,
             "quickSearch": 1,
-            "api": "csp_LiangRenApp"
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://121.62.22.204:9876",
+                "dataKey": "f5e2tx53ykp6s2c9",
+                "dataIv": "f5e2tx53ykp6s2c9",
+                "deviceId": "",
+                "version": "361"
+            }
+        },
+        {
+            "key": "若惜",
+            "name": "若惜｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://110.40.59.188:9527",
+                "dataKey": "ebad3f1a58b13933",
+                "dataIv": "ebad3f1a58b13933",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "外剧",
+            "name": "外剧｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://guowaiju.com",
+                "dataKey": "7xv16h7qgkrs9b1p",
+                "dataIv": "7xv16h7qgkrs9b1p",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "鲨鱼",
+            "name": "鲨鱼｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://cms.wlbbq.xyz",
+                "dataKey": "sdev15rwsa96fsde",
+                "dataIv": "sdev15rwsa96fsde",
+                "deviceId": "",
+                "version": "102"
+            }
+        },
+        {
+            "key": "趣看",
+            "name": "趣看｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppMuou",
+            "ext": {
+                "url": "https://xjuzi.top",
+                "dataKey": "6a482a70b80eefc9",
+                "dataIv": "c995826a3e86fedd",
+                "jxurl": "https://www.ququkan.cc"
+            }
+        },
+        {
+            "key": "驿站",
+            "name": "驿站｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppMuou",
+            "ext": {
+                "url": "http://110.42.110.230:16189",
+                "dataKey": "d7378557d1d9c924",
+                "dataIv": "fb4594f622f34fea",
+                "jxurl": "https://qqiqiyiyoukumgtvapiappdyyztvjsoni8n2o0z1ws2n7b6v3x8.68.gy:56789"
+            }
+        },
+        {
+            "key": "主角",
+            "name": "主角｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppMuou",
+            "ext": {
+                "url": "https://vodapp.feiwang.cc",
+                "dataKey": "25f9e794323b4538",
+                "dataIv": "25f9e794323b4538",
+                "jxurl": "https://vod.feiwang.cc"
+            }
+        },
+        {
+            "key": "二三",
+            "name": "二三｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppMuou",
+            "ext": {
+                "url": "http://cs4.123ysw.com",
+                "dataKey": "d3238930e3ae0724",
+                "dataIv": "d3238930e3ae0724",
+                "jxurl": "https://123ysw.com"
+            }
+        },
+        {
+            "key": "追忆",
+            "name": "追忆｜APP",
+            "type": 3,
+            "quickSearch": 0,
+            "api": "csp_AppMiTo",
+            "ext": {
+                "url": "http://110.42.7.130:1866",
+                "dataKey": "aassddwwxxllsx1x",
+                "playKey": "1bada76e67e1e7f9",
+                "version": "1.2.0"
+            }
         },
    ////////////////////////////////////////////////////////////////////////////////////////////////////////////////     
         
@@ -936,7 +1082,253 @@
             "quickSearch": 0,
             "filterable": 0
         },
-////////////////////////////////////////////////////////////////////////////////////	    
+//////4K///////////////////////////////////////////////////////////////////////////
+{
+            "key": "玩偶哥哥",
+            "name": "玩偶｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitmirror.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/wogg.json"
+        },
+        {
+            "key": "木偶",
+            "name": "木偶｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitmirror.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/mogg.json"
+        },
+        {
+            "key": "蜡笔",
+            "name": "蜡笔｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://raw.gitmirror.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/lb.json"
+        },
+        {
+            "key": "至臻",
+            "name": "至臻｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://raw.gitmirror.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/zz.json"
+        },
+        {
+            "key": "多多",
+            "name": "多多｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://raw.gitmirror.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/yyds.json"
+        },
+        {
+            "key": "欧哥",
+            "name": "欧哥｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://raw.gitmirror.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/og.json"
+        },
+        {
+            "key": "二小",
+            "name": "二小｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://raw.gitmirror.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/ex.json"
+        },
+        {
+            "key": "大玩",
+            "name": "大玩｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://raw.gitmirror.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/dawo.json"
+        },
+        {
+            "key": "虎斑",
+            "name": "虎斑｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://raw.gitmirror.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/hb.json"
+        },
+        {
+            "key": "闪电",
+            "name": "闪电｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://raw.gitmirror.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/sd.json"
+        },
+        {
+            "key": "奥秘",
+            "name": "奥秘｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://raw.gitmirror.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/am.json"
+        },
+        {
+            "key": "团长",
+            "name": "团长｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebTz",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "雷鲸",
+            "name": "雷鲸｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShareCloudLJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "https://raw.gitmirror.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/lj.json"
+        },
+        {
+            "key": "海绵",
+            "name": "海绵｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShareCloudHM",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "https://raw.gitmirror.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/hm.json"
+        },
+        {
+            "key": "夸父",
+            "name": "夸父｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShareCloudKF",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "https://raw.gitmirror.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/kf.json"
+        },
+        {
+            "key": "趣盘",
+            "name": "趣盘｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebQu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": {
+                "url": "https://www.qupanshe.com"
+            }
+        },
+        {
+            "key": "盘库",
+            "name": "盘库｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebKuBa",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "url": "https://panku8.com,https://yipanso.com"
+            }
+        },
+        {
+            "key": "聚搜",
+            "name": "聚搜｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebSearch",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "双星",
+            "name": "双星｜4K弹幕",
+            "type": 3,
+            "api": "https://raw.gitmirror.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/cloud.min.js",
+            "ext": "https://raw.gitmirror.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/双星.js",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "懒盘",
+            "name": "懒盘｜4K弹幕",
+            "type": 3,
+            "api": "https://raw.gitmirror.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/cloud.min.js",
+            "ext": "https://raw.gitmirror.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/懒盘.js",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "米搜",
+            "name": "米搜｜4K弹幕",
+            "type": 3,
+            "api": "https://raw.gitmirror.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/cloud.min.js",
+            "ext": "https://raw.gitmirror.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/米搜.js",
+            "style": {
+                "type": "list"
+            }
+        },
+
+////////////////////////////////////////////////////////////////////////////////////////
         {"key":"JRKAN直播","name":"⚽JRKAN直播","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/JRKAN直播.js"},
         {"key":"88看球","name":"🏆🏆⚽88看球","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/88看球.js"},
 
@@ -993,12 +1385,13 @@
             "filterable": 1,
             "ext": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/XYQHiker/短剧屋.json"
         },
-        
+   //////动漫////////////////////////////////////////////////////////////////////////////////////////////////////     
         {
             "key": "56动漫",
             "name": "56｜动漫",
             "type": 3,
             "api": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
+	    "jar": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/56动漫.js"
         },
         {
@@ -1006,6 +1399,7 @@
             "name": "NT｜动漫",
             "type": 3,
             "api": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
+	    "jar": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/NT动漫.js"
         },
         {
@@ -1013,6 +1407,7 @@
             "name": "Anime1｜动漫",
             "type": 3,
             "api": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
+	    "jar": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/Anime1.js"
         },
         
@@ -1021,6 +1416,7 @@
             "name": "动画片｜动漫",
             "type": 3,
             "api": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
+		"jar": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/动画片大全.js"
         },
         {
@@ -1028,6 +1424,7 @@
             "name": "🥇💢路漫漫｜动漫",
             "type": 3,
             "api": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
+		"jar": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/路漫漫.js"
         },
         {
@@ -1035,6 +1432,7 @@
             "name": "动漫岛｜动漫",
             "type": 3,
             "api": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
+		"jar": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/动漫岛.js"
         },
         {
@@ -1042,6 +1440,7 @@
             "name": "去看吧｜动漫",
             "type": 3,
             "api": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
+		"jar": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/去看吧.js"
         },
         {
@@ -1049,6 +1448,7 @@
             "name": "🥇💢爱弹幕｜动漫",
             "type": 3,
             "api": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
+		"jar": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/爱弹幕.js"
         },
         {
@@ -1056,6 +1456,7 @@
             "name": "异世界｜动漫",
             "type": 3,
             "api": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
+		"jar": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/异世界.js"
         },
         {
@@ -1063,6 +1464,7 @@
             "name": "好看｜动漫",
             "type": 3,
             "api": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
+		"jar": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/好看动漫.js"
         },
         {
@@ -1070,6 +1472,7 @@
             "name": "奇米｜动漫",
             "type": 3,
             "api": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
+		"jar": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/奇米动漫.js"
         },
         {
@@ -1077,6 +1480,7 @@
             "name": "怡萱｜动漫",
             "type": 3,
             "api": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
+		"jar": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/怡萱动漫.js"
         },
         {
@@ -1084,6 +1488,7 @@
             "name": "花子｜动漫",
             "type": 3,
             "api": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
+		"jar": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/花子动漫.js"
         },
         {
@@ -1091,6 +1496,7 @@
             "name": "巴士｜动漫",
             "type": 3,
             "api": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
+		"jar": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/动漫巴士.js"
         },
         {
@@ -1098,6 +1504,7 @@
             "name": "樱花｜动漫",
             "type": 3,
             "api": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
+		"jar": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": "https://raw.gitmirror.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/JS/樱花动漫.js"
         },
         {"key": "魔都","name": "🥇💢魔都","type": 0,"api": "https://caiji.moduapi.cc/api.php/provide/vod/at/xml/","searchable": 0,"changeable": 0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},
@@ -1161,7 +1568,7 @@
                 "version": ""
             }
         },
-        
+//////////////////////////////////////////////////////////////////////////////////////////////////        
         {
             "key": "搜索弹幕",
             "name": "搜索｜弹幕",
