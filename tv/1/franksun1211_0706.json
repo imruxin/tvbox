@@ -4,7 +4,7 @@
     "spider": "https://gitdl.cn/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/spider.jar",
 	"wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://gitdl.cn/https://raw.githubusercontent.com/franksun1211/TVBOX/main/sun.jpg",
-	"notice": "[0706JJ]CK20260224 🍑",
+	"notice": "[0706JJ]CK20260228 🥭",
 	 
    
     "sites": [
@@ -65,18 +65,7 @@
             "changeable": 1
         },
 	
-	   {
-            "key": "花柳",
-            "name": "🥇💢花柳✨｜APP",
-            "type": 3,
-            "changeable": 0,
-            "api": "csp_AppFox",
-            "ext": {
-                "host": "http://nico.oiio.fun",
-                "ver": 2
-            }
-        },
-	
+	   
 		
 		{
             "key": "88",
@@ -146,7 +135,8 @@
                     "https://www.mihdr.top",
                     "https://www.zhizhenpan.fun"
                 ]
-            }
+             },
+            "timeout": 60
         },
        
         {
@@ -165,7 +155,8 @@
                     "https://woog.nxog.eu.org",
                     "https://woog.430520.xyz"
                 ]
-            }
+            },
+            "timeout": 60
         },
 		 {
             "key": "夸克",
@@ -180,7 +171,8 @@
                 "site": [
                     "https://www.quarktv.cc"
                 ]
-            }
+            },
+            "timeout": 60
         },
        
         
@@ -202,7 +194,8 @@
                     "https://www.kfjwzz.com"
                 ],
                 "cookie": "bbs_sid=bi7dpnm6vp31s38rjqlqq8vq84; bbs_token=TWiR3YUrGoVpbdTkjAJ0xMe_2B_2FiaFvd84V3_2FEZJRRSKU_3D"
-            }
+             },
+            "timeout": 60
         },
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         
@@ -256,19 +249,7 @@
 
         
         
-       {
-            "key": "小苹果弹幕",
-            "name": "🥇小苹果✨｜弹幕",
-            "type": 3,
-            "api": "csp_Xpg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-		"jar": "https://gitdl.cn/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": {
-                "danmu": true
-            }
-        }, 
+     
 		
 		{
             "key": "立播",
@@ -354,18 +335,7 @@
             "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
         },
       
-        {
-            "key": "苹果影视",
-            "name": "🥇苹果｜影视",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        
-       
-        
+      
        
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 ////////++++++++++4K+++++++++++++++++++++++++++//////////////////////////////////////////////////////////////////////////////////////////
@@ -412,7 +382,8 @@
                     "http://xsayang.fun:12512",
                     "http://154.201.83.50:12512"
                 ]
-            }
+          },
+            "timeout": 60
         },
         
         
@@ -432,7 +403,8 @@
                     "https://erxiaofn.click",
                     "https://www.xhww.net"
                 ]
-            }
+             },
+            "timeout": 60
         },
         
         {
@@ -448,7 +420,8 @@
                 "site": [
                     "https://sd.sduc.site"
                 ]
-            }
+             },
+            "timeout": 60
         },
        
        
@@ -463,6 +436,7 @@
             "key": "双星",
             "name": "🥇双星｜4K",
             "type": 3,
+		    "timeout": 60,
             "api": "csp_ShuangXing"
             
         },
@@ -470,6 +444,7 @@
             "key": "即刻",
             "name": "即刻｜4K",
             "type": 3,
+		    "timeout": 60,
             "api": "csp_Jike",
             "style": {
                 "type": ""
@@ -2057,6 +2032,8 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
+
 
 
 
